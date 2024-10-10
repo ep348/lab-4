@@ -1,0 +1,34 @@
+.highlight{
+    color: green;
+}
+.main-content{
+    background-color: yellow;
+}
+#id2{
+    text-align: center;
+}
+#id1{
+    text-decoration-line: none;
+}
+#id3{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+}
+.bold-text{
+    font-weight: bold;
+}
+#intro{
+    font-weight: 300;
+}
+.custom-font{
+    font-family: Times New Roman, Serif;
+}
+#id4{
+    text-transform: uppercase;
+}
+.capitalize-text{
+    text-transform: capitalize;
+}
+*{
+    font-family: Arial, Sans-serif;
+}
